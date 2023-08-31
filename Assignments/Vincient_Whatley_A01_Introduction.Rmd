@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1: Introduction"
-author: "Student Name"
+author: "Vincient Whatley"
 output: pdf_document
 geometry: margin=2.54cm
 ---
@@ -26,6 +26,7 @@ Now, run this code cell the same way. This will install "tinytex" -- a helper ap
 #install tinytext
 tinytex::install_tinytex()
 ```
+(tinytex::install_tinytex())
 
 ### Set your default knit directory
 This setting will help deal with relative paths later on...
@@ -39,22 +40,22 @@ Enter answers to the questions just below the >Answer: prompt.
 
 1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
 
-> Answer: 
+> Answer: None at all, started a course on datacamp but that was it.
 
 2. Are there any components of the course about which you feel confident?
 
-> Answer: 
+> Answer: None at this time unfortunately, haha.
 
 3. Are there any components of the course about which you feel apprehensive?
 
-> Answer: 
+> Answer: Coding and naviagting the software will be a challange for me.
 
 
 ## 3) GitHub
 
 Provide a link below to your forked course repository in GitHub. Make sure you have pulled all recent changes from the course repository and that you have updated your course README file, committed those changes, and pushed them to your GitHub account. 
 
-> Answer: 
+> Answer: https://github.com/vinny-chasing-sunset/EDE_Fall2023.git
 
 ## 4) Knitting
 When you have completed this document, click the `knit` button.This should produce a PDF copy of your markdown document. Submit this PDF to Sakai. 
